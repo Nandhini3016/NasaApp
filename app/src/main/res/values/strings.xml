@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NasaApp</string>
+    <string name="no_internet">No interview Available. Retrieved old Data</string>
+</resources>
